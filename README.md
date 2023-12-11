@@ -10,10 +10,6 @@ The main use case for this, is while in face recognition we have to ensure the p
  
 **Eye closed-- Red**
 
-![image_1](demo_images/open.png)
-![image_2](demo_images/close.png)
-
-
 ### Contents
 1. [Installation](#installation)
 2. [Demo](#demo)
